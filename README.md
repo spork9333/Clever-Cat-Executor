@@ -14,8 +14,11 @@ Clever-Cat, is an executor only reserved for roblox, designed for users aiming f
 ### 🛠️ Showcase Features
 
 | 🛡️ Anti-detection protection  | An advanced system that allows protection never seen elsewhere                 |
+
 | 🎯 Optimum Performance        | Our executor has an optimization so as not to disturb your game performance.   |
+
 | 💨 Full customization         | Each feature is customizable according to your preference.                     |
+
 | 🔄 Regular Updates            | Updates are made every week, unless there is a technical problem!.             |
 
 ---
