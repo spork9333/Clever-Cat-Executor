@@ -26,10 +26,15 @@ Clever-Cat, is an executor only reserved for roblox, designed for users aiming f
 ## 🚀 The beginning
 
 1 - Install the executor on our website [CLICK HERE](https://clever-cat.xyz/), when you install it,
+
 2 - Open the folder called "CLEVER-CAT EXECUTOR.RAR" and extract the "Clever-Cat" folder on your desktop,
+
 3 - Next, open the "Clever-Cat" folder, in it you will find his README.txt and the executor
+
 4 - Next, launch the "CleverCat INSTALLER.exe" file and wait for the user interface to appear.
+
 5 - When the interface is open, open roblox, and inject your roblox client before launching your game with your script. (This is the button with a key shape on the bottom left).
+
 6 - Then once the roblox client is injected, launch your game then the script, and finally enjoy the cheat to the fullest!!
 
 ---
