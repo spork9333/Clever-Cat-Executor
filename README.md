@@ -52,15 +52,15 @@ Clever-Cat, is an executor only reserved for roblox, designed for users aiming f
 
 ## ❓ FAQ
 
-**Q: Are cheats detectable?**  
-A: No, our cheats use advanced anti-detection technology that makes them undetectable by current anti-cheat systems. We are constantly updating our products to guarantee your security.
+**Q1: Are cheats detectable?**  
+A1: No, our cheats use advanced anti-detection technology that makes them undetectable by current anti-cheat systems. We are constantly updating our products to guarantee your security.
 
-**Q: How do I install cheats?**  
-A: Installation is quick and easy. After your purchase, you'll receive a download link and detailed instructions. Our automated launcher takes care of the entire installation process.
+**Q2: How do I install cheats?**  
+A2: Installation is quick and easy. After your purchase, you'll receive a download link and detailed instructions. Our automated launcher takes care of the entire installation process.
 
-**Q: Can I use cheats on more than one computer?**  
-A: No, your license is linked to a single computer. For security reasons, we limit use to one machine per license.
+**Q3: Can I use cheats on more than one computer?**  
+A3: No, your license is linked to a single computer. For security reasons, we limit use to one machine per license.
 
-**Q: Do you offer technical support?**  
-A: Yes, we offer full technical support via our Discord and email. Premium and Lifetime customers benefit from 24/7 priority support.
+**Q4: Do you offer technical support?**  
+A4: Yes, we offer full technical support via our Discord and email. Premium and Lifetime customers benefit from 24/7 priority support.
 
