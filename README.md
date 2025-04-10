@@ -4,8 +4,8 @@ Welcome to **Clever-Cat Executor** – The best roblox injector, which in a sing
 
 ## 🐈 Clever Cat : A roblox executor, computerically advanced over decades.
 
-## [🚀 Click For Download](https://clever-cat.cyz)
-[![Clever-Cat Executor ](https://clever-cat.xyz/img/logo.png)](https://clever-cat.cyz)
+## [🚀 Click For Download](https://clever-cat.xyz)
+[![Clever-Cat Executor ](https://clever-cat.xyz/img/logo.png)](https://clever-cat.xyz)
 
 ## 🔍 What is Clever-Cat Executor?
 
@@ -22,7 +22,7 @@ Clever-Cat, is an executor only reserved for roblox, designed for users aiming f
 
 ## 🚀 The beginning
 
-1 - Install the executor on our website [CLICK HERE](clever-cat.xyz), when you install it,
+1 - Install the executor on our website [CLICK HERE](https://clever-cat.xyz/), when you install it,
 2 - Open the folder called "CLEVER-CAT EXECUTOR.RAR" and extract the "Clever-Cat" folder on your desktop,
 3 - Next, open the "Clever-Cat" folder, in it you will find his README.txt and the executor
 4 - Next, launch the "CleverCat INSTALLER.exe" file and wait for the user interface to appear.
